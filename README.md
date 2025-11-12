@@ -23,12 +23,10 @@ Jalankan ```app.py```
 ```bash
 python app.py
 ```
-<<<<<<< HEAD
+
 ## KONTRIBUSI
 Proyek ini adalah hasil kolaborasi tim dari **Universitas Negeri Makassar**:
 
 * [A. Ahmad Nadil](https://github.com/BuahPir)
 * Muhammad Rifky
 * Abdurrahman Arfah Maulana
-=======
->>>>>>> 4049c72d0a407d24ddd40c995369823b86284e5f
