@@ -25,7 +25,7 @@ python app.py
 ```
 
 ## KONTRIBUSI
-Proyek ini adalah hasil kolaborasi tim dari **Universitas Negeri Makassar**:
+Proyek ini adalah hasil kolaborasi Kelompok 1 Mata Kuliah Sistem Pendukung Keputusan dari **[Universitas Negeri Makassar](https://unm.ac.id/)**:
 
 * [A. Ahmad Nadil](https://github.com/BuahPir)
 * Muhammad Rifky
