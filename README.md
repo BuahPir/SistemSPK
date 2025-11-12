@@ -23,3 +23,9 @@ Jalankan ```app.py```
 ```bash
 python app.py
 ```
+## KONTRIBUSI
+Proyek ini adalah hasil kolaborasi tim dari **Universitas Negeri Makassar**:
+
+* [A. Ahmad Nadil](https://github.com/BuahPir)
+* Muhammad Rifky
+* Abdurrahman Arfah Maulana
