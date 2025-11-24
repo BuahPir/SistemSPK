@@ -102,19 +102,6 @@ h3 {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
-.btn-ahp {
-    padding: 20px 40px;
-    font-size: 1.2em;
-    background: #66c0f4;
-    color: #1b2838;
-}
-
-.btn-ahp:hover {
-    transform: translateY(-5px);
-    box-shadow: 0 10px 20px rgba(102, 192, 244, 0.2);
-    background: #7ed0f9;
-}
-
 .btn-saw {
     padding: 20px 40px;
     font-size: 1.2em;

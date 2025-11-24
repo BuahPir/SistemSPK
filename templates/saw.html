@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SAW Ranking - Steam Game DSS</title>
-    <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
+    <link rel="stylesheet" href="{{ url_for('static', filename='css/styleSAW.css') }}">
 </head>
 <body>
     <div class="container">
@@ -49,7 +49,7 @@
                 </p>
                 <div class="add-game">
                     <input type="number" id="steamAppID" placeholder="Enter Steam AppID (e.g., 570)..." style="flex: 1;">
-                    <button class="btn btn-secondary" onclick="searchByAppID()" style="margin: 0;">Add Game by ID</button>
+                    <button onclick="searchByAppID()" style="margin: 0;">Add Game by ID</button>
                 </div>
             </div>
             <div class="add-game">
